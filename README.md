@@ -67,4 +67,4 @@ We welcome feedback, bug reports, and contributions. Happy detecting and classif
 
 # Realtime Monitoring Snapshot:
 
-![AI thesis](https://github.com/Arduts/Realtime-Construction-Helmet-Detection-and-Classification/assets/90703468/91a065cb-bcf0-41e2-bf47-fb6cbb5a1949)
+![AI thesis](https://github.com/Arduts/Realtime-Construction-Helmet-Detection-and-Classification/assets/90703468/ab53985b-f918-4bbd-b58a-a4d60800e97b)
