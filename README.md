@@ -59,7 +59,12 @@ dataset/
 ## Contributing
 Contributions to this project are welcome! If you find any issues or have ideas to improve the system, please open an issue or submit a pull request. Follow the contribution guidelines for more details.
 
-# License
+## License
 This project is licensed under reuben dominic license.
 
 We welcome feedback, bug reports, and contributions. Happy detecting and classifying construction helmets in real-time with AI!
+
+
+# Realtime Monitoring Snapshot:
+
+![AI thesis](https://github.com/Arduts/Realtime-Construction-Helmet-Detection-and-Classification/assets/90703468/91a065cb-bcf0-41e2-bf47-fb6cbb5a1949)
